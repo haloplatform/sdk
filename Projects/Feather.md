@@ -9,5 +9,5 @@ Instructions on how to use items within Feather
 - (TODO): Connecting Feather to a local node not started by Feather
 - [Completely Uninstalling Feather](../Guides/Feather/uninstalling-completely.md)
 - (TODO): Mining in Feather
-- (TODO): Sending funds to your Feather Accounts
+- [Sending funds to your Feather Accounts](../Guides/Feather/sending-funds-to-feather.md)
 - (TODO): Sending a Transaction in Feather
