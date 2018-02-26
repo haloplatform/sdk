@@ -9,5 +9,6 @@ When uninstalling Feather you may leave some configuration information behind if
 
 (Optional command line usage)
 ```
+rm -rf /Applications/feather-client.app
 rm -rf "~/Library/Application Support/Featherlite"
 ```
