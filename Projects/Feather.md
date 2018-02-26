@@ -1,0 +1,13 @@
+# Feather Client
+
+The feather client is a desktop interface into the Halo Platfor ecosystem. It provides access to a wallet, masternode control system, cpu mining, account management, and a dashboard for displaying latest halo platform news.
+
+## Guides
+
+Instructions on how to use items within Feather
+
+- (TODO): Connecting Feather to a local node not started by Feather
+- [Completely Uninstalling Feather](../Guides/Feather/uninstalling-completely.md)
+- (TODO): Mining in Feather
+- [Sending funds to your Feather Accounts](../Guides/Feather/sending-funds-to-feather.md)
+- (TODO): Sending a Transaction in Feather
