@@ -5,9 +5,9 @@ When uninstalling Feather you may leave some configuration information behind if
 ## MacOS
 
 1. Delete the `feather-client` application in your application folder
-2. Delete the folder `/Users/${username}/Library/Application Support/brave/featherlite`
+2. Delete the folder `/Users/${username}/Library/Application Support/Featherlite`
 
 (Optional command line usage)
 ```
-rm -rf "~/Library/Application Support/brave/featherlite"
+rm -rf "~/Library/Application Support/Featherlite"
 ```
