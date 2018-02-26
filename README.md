@@ -15,6 +15,7 @@ Our general Halo Platform FAQ is hosted [at our wiki](https://wiki.haloplatform.
 ## General Guides
 These guides are general guides for development across all of Halo Platform.
 
+- [Adding files to SDK](Guides/Master/adding-files.md)
 - [DAPP Development - What are DAPPS?](Guides/Master/dapp-development-what-are-dapps.md)
 - DAPP Development - How to use Web3
 - DAPP Development - How Feather Client Interacts with DAPPS
