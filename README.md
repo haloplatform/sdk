@@ -26,3 +26,4 @@ These guides are general guides for development across all of Halo Platform.
 These are pages specific to projects developed by Halo Platform and dive deep into each projects documentation.
 
 - [Glo - Go Halo Platform](Projects/Glo.md)
+- [Feather Client](Projects/Feather.md)
