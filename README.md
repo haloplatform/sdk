@@ -32,13 +32,9 @@ These are links to specific code repo's of projects from Halo Platform. Each pro
 ##### Products
 
 - [Go-Halo](https://github.com/haloplatform/go-halo) - The core coin code and blockchain.
-- [Feather Client](https://github.com/haloplatform/feather-client) - The desktop browser for featherlite
 
 ##### DAPPS
-- **Featherlite** - (Decoupled UI for Feather Client), WIP.
-- [Masternodes-Vue](https://github.com/haloplatform/dapp-masternode-vue) - The Masternode DAPP and Smart Contracts
 - [Wallet-Vue](https://github.com/haloplatform/dapp-wallet-vue) - The Wallet DAPP used in featherlite
-- [Dashboard-Vue](https://github.com/haloplatform/dapp-dashboard-vue) - The Dashboard DAPP used in featherlite
 
 ##### Tools
 
