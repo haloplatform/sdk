@@ -20,11 +20,12 @@ These guides are general guides for development across all of Halo Platform. (Ou
 - [Smart Contracts - Truffle Version](Guides/smart-contracts-truffle-version.md)
 - [Smart Contracts - Gas Price & Gas Usage](Guides/smart-contracts-gas-price.md)
 - [Smart Contracts - now and timestamps](Guides/smart-contracts-now.md)
+- Smart Contracts - Deploying via Truffle and Wallet (Coming Soon)
+- Smart Contracts - Watching Contracts Via Wallet (Coming Soon)
 - DAPP Development - What are DAPPS? (Coming soon)
 - DAPP Development - How to use Web3 (Coming soon)
 - DAPP Development - What is Halo.JS & How to Use it (Coming soon)
 - DAPP Development - How Feather Client Interacts with DAPPS (Coming soon)
-- DAPP Development - Local Development with Feather Client (Coming soon)
 
 ## Projects
 These are links to specific code repo's of projects from Halo Platform. Each project will eventually have a wiki for working with that code base.
