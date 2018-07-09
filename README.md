@@ -44,3 +44,4 @@ These are links to specific code repo's of projects from Halo Platform. Each pro
 - [Halo.js](https://github.com/haloplatform/halo.js) - Halo Web3 provider and backend for featherlite or future tools
 - [HAL-9001](https://github.com/haloplatform/hal-9001) - Halo Asset Library for common Vue Utils / Vuetify Modules and components
 - [web3js-typings](https://github.com/haloplatform/web3js-typings) - Typescript Typings file for web3js
+- [Traceability Matrix](https://docs.google.com/spreadsheets/d/18XTBL97c7PfOTBpe1n5PnqkePHCSscnaf8TUFxN2ZXU/edit#gid=0) Our matrix for testing.
