@@ -4,8 +4,8 @@ Data endpoints for blockchain information on the Halo Platform blockchain.
 
 ## Table
 
-- [TX Count for Address]
-- [List TX's for Address]
+- [TX Count for Address](#tx-count-for-address)
+- [List TX's for Address](#list-tx-for-address)
 - []
 - []
 - []
@@ -42,6 +42,8 @@ curl --request GET \
 ```
 
 --------------------------------------------------------
+
+### List TX for Address
 
 Get list of all transactions for specific wallet address, response includes incoming and outcoming transactions
 
