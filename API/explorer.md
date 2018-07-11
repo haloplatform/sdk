@@ -6,9 +6,12 @@ Data endpoints for blockchain information on the Halo Platform blockchain.
 
 - [TX Count for Address](#tx-count-for-address)
 - [List TX's for Address](#list-tx-for-address)
-- []
-- []
-- []
+- [Get Latest Block](#get-latest-block)
+- [Get latest block with transactions](#get-latest-block-with-transactions)
+- [Get Block With Transactions](#get-block-with-transactions)
+- [Get Block](#get-block)
+- [Get last N blocks](#get-last-n-blocks)
+- [Get Current Supply](#get-current-supply)
 
 
 ## Examples
@@ -93,7 +96,7 @@ curl --request GET \
 
 --------------------------------------------------------
 
-### Get latest block
+### Get Latest Block
 
 **Params**
 None
@@ -138,7 +141,7 @@ curl --request GET \
 ```
 --------------------------------------------------------
 
-Get latest block including transactions 
+### Get latest block with transactions 
 
 **Params**
 
@@ -160,7 +163,7 @@ https://api-explorer.haloplatform.tech/block/latest?tx=true
 
 --------------------------------------------------------
 
-Get block by specific number
+### Get Block
 
 **Params**
 
@@ -205,7 +208,7 @@ https://api-explorer.haloplatform.tech/block/1
 
 
 --------------------------------------------------------
-
+### Get Block With Transactions
 Get block by specific number including transactions history
 
 **Params**
@@ -273,8 +276,7 @@ https://api-explorer.haloplatform.tech/block/1?tx=true
 ```
 
 ---
-
-Get last N blocks
+### Get last N blocks
 
 **Params**
 
@@ -321,11 +323,25 @@ https://api-explorer.haloplatform.tech/block/last/10
 ```
 
 ---
+### Get Current Supply
+
 **Params**
 
+- none
+
 **Endpoint**
+```
+https://api-explorer.haloplatform.tech/coin/total
+```
 
 **Example Request**
+```
+https://api-explorer.haloplatform.tech/coin/total
+```
 
 **Example Response**
-
+```json
+{
+    "total": 1620084
+}
+```
