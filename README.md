@@ -27,12 +27,13 @@ These guides are general guides for development across all of Halo Platform. (Ou
 - DAPP Development - What is Halo.JS & How to Use it (Coming soon)
 - DAPP Development - How Feather Client Interacts with DAPPS (Coming soon)
 
-## API's
+## Projects
+These are links to specific code repo's of projects from Halo Platform. Each project will eventually have a wiki for working with that code base.
 
+##### API's
 The API documentation for different API's available within our ecosystem. Some are in this repo, some are parts of other repo's. 
 
 - [Explorer API](API/explorer.md)
-
 
 ##### Products
 
