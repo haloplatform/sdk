@@ -49,6 +49,6 @@ These are links to specific code repo's of projects from Halo Platform. Each pro
 ##### Tools
 
 - [Vuex-Web3-Sync](https://github.com/haloplatform/vuex-web3-sync) - Vuex (vuejs redux store) sync package for bringing web3 into a project easily
-- [Halo.js](https://github.com/haloplatform/halo.js) - Halo Web3 provider and backend for featherlite or future tools
-- [HAL-9001](https://github.com/haloplatform/hal-9001) - Halo Asset Library for common Vue Utils / Vuetify Modules and components
+- Halo.js (Coming Soon) - Halo Web3 provider and backend for featherlite or future tools
+- HAL-9001 (Coming Soon) - Halo Asset Library for common Vue Utils / Vuetify Modules and components
 - [web3js-typings](https://github.com/haloplatform/web3js-typings) - Typescript Typings file for web3js
