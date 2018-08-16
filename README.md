@@ -40,16 +40,21 @@ These are links to specific code repo's of projects from Halo Platform. Each pro
 
 ##### Products
 
-- [Go-HaloPlatform](https://github.com/haloplatform/go-haloplatform) - The core coin code and blockchain.
+- [Go-HaloPlatform](https://github.com/haloplatform/go-haloplatform) - The core coin code and blockchain..
   - [GLO - Guides/Wiki - Different Repo](https://github.com/haloplatform/go-haloplatform/wiki)
   
 ##### DAPPS
 
-- [Wallet-Vue](https://github.com/haloplatform/dapp-wallet-vue) - The Wallet DAPP used in featherlite
+- Wallet-Vue (Coming Soon) - The Wallet DAPP used in featherlite.
 
 ##### Tools
 
-- [Vuex-Web3-Sync](https://github.com/haloplatform/vuex-web3-sync) - Vuex (vuejs redux store) sync package for bringing web3 into a project easily
-- Halo.js (Coming Soon) - Halo Web3 provider and backend for featherlite or future tools
-- HAL-9001 (Coming Soon) - Halo Asset Library for common Vue Utils / Vuetify Modules and components
-- [web3js-typings](https://github.com/haloplatform/web3js-typings) - Typescript Typings file for web3js
+- [Vuex-Web3-Sync](https://github.com/haloplatform/vuex-web3-sync) - Vuex (vuejs redux store) sync package for bringing web3 into a project easily.
+- Halo.js (Coming Soon) - Halo Web3 provider and backend for featherlite or future tools.
+- HAL-9001 (Coming Soon) - Halo Asset Library for common Vue Utils / Vuetify Modules and components.
+- [web3js-typings](https://github.com/haloplatform/web3js-typings) - Typescript Typings file for web3js.
+
+##### Contracts
+
+- [Halo-Dex] (Coming Soon) - The full contract running the Halo Platform Decentralized Exchange.
+- [Sample Tokens] (Coming Soon) - Easy Sample token contracts like what we have deployed to testnet.
