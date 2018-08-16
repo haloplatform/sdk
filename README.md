@@ -17,6 +17,7 @@ Our general Halo Platform FAQ is hosted [at our site wiki](https://wiki.haloplat
 ## General Guides
 These guides are general guides for development across all of Halo Platform. (Outlined, but not written yet)
 
+- [Wallet - Add Token To Contract](Guides/wallet-add-token.md)
 - [Smart Contracts - Truffle Version](Guides/smart-contracts-truffle-version.md)
 - [Smart Contracts - Gas Price & Gas Usage](Guides/smart-contracts-gas-price.md)
 - [Smart Contracts - now and timestamps](Guides/smart-contracts-now.md)
