@@ -13,7 +13,7 @@ Find below an example script on how to send a transaction using sss.
 ```javascript
 
 // import and setup sss
-const sss = require('@haloplatform/simple-sign-system);
+const sss = require('@haloplatform/simple-sign-system');
 const sss = new SimpleSignSystem();
 
 // import and setup web3 1.x
