@@ -29,6 +29,7 @@ These guides are general guides for development across all of Halo Platform. (Ou
 - DAPP Development - How to use Web3 (Coming soon)
 - DAPP Development - What is Halo.JS & How to Use it (Coming soon)
 - DAPP Development - How Feather Client Interacts with DAPPS (Coming soon)
+- [Transactions - Signing a Tx](Guides/transactions-signing.md)
 
 ## Projects
 
