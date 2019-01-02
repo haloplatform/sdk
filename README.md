@@ -7,7 +7,7 @@ This repository will help developers find resources, and instruct where to look 
 
 ## Halo Platform Improvement Proposals
 
-These are proposals that are submitted and discussed for implementation into the core coin or other halo platform projects. It is open for community involvement and discussion. [Please see it at the repo that houses it here](https://github.com/haloplatform/hpip).
+These are proposals that are submitted and discussed for implementation into the core coin or other halo platform projects. It is open for community involvement and discussion. [Please see it at the community that houses it here](https://community.haloplatform.tech/forum/11-improvement-proposals/).
 
 ## FAQ
 
@@ -24,11 +24,11 @@ These guides are general guides for development across all of Halo Platform. (Ou
 - [Smart Contracts - Creation](Guides/smart-contracts-creation.md)
 - [Smart Contracts - Deploying via Truffle](Guides/smart-contracts-deploying-truffle.md)
 - [Smart Contracts - Deploying via Wallet](Guides/smart-contracts-deploying-wallet.md)
-- Smart Contracts - Watching Contracts Via Wallet (Coming Soon)
-- DAPP Development - What are DAPPS? (Coming soon)
+- Smart Contracts - Watching Contracts Via Wallet (Not Available Yet)
+- DAPP Development - What are DAPPS? (Not Available Yet)
 - DAPP Development - How to use Web3 (Coming soon)
-- DAPP Development - What is Halo.JS & How to Use it (Coming soon)
-- DAPP Development - How Feather Client Interacts with DAPPS (Coming soon)
+- DAPP Development - What is Halo.JS & How to Use it (Not Available Yet)
+- DAPP Development - How Feather Client Interacts with DAPPS (Not Available Yet)
 - [Transactions - Signing a Tx](Guides/transactions-signing.md)
 
 ## Projects
@@ -47,17 +47,31 @@ These are links to specific code repo's of projects from Halo Platform. Each pro
   
 ##### DAPPS
 
-- Wallet-Vue (Coming Soon) - The Wallet DAPP used in featherlite.
+- Wallet-Vue (Not Available Yet) - The Wallet DAPP used in featherlite.
 
 ##### Tools
 
 - [Vuex-Web3-Sync](https://github.com/haloplatform/vuex-web3-sync) - Vuex (vuejs redux store) sync package for bringing web3 into a project easily.
 - [simple-sign-system](https://github.com/haloplatform/simple-sign-system) - Easy javascript sign and recover system for transactions and data. For use with Halo Platform Chain and web3js 1.x.
-- Halo.js (Coming Soon) - Halo Web3 provider and backend for featherlite or future tools.
-- HAL-9001 (Coming Soon) - Halo Asset Library for common Vue Utils / Vuetify Modules and components.
+- Halo.js (Not Available Yet) - Halo Web3 provider and backend for featherlite or future tools.
+- HAL-9001 (Not Available Yet) - Halo Asset Library for common Vue Utils / Vuetify Modules and components.
 - [web3js-typings](https://github.com/haloplatform/web3js-typings) - Typescript Typings file for web3js.
 
 ##### Contracts
 
-- [Halo-Dex] (Coming Soon) - The full contract running the Halo Platform Decentralized Exchange.
-- [Sample Tokens] (Coming Soon) - Easy Sample token contracts like what we have deployed to testnet.
+- [Halo-Dex] (Not Available Yet) - The full contract running the Halo Platform Decentralized Exchange.
+- [Sample Tokens] (Not Available Yet) - Easy Sample token contracts like what we have deployed to testnet.
+
+##### Report Issues
+
+- [Report A Bug](https://github.com/haloplatform/status/issues/new?template=bug_report.md)
+- [Request A Feature](https://github.com/haloplatform/status/issues/new?template=feature_request.md)
+
+##### Other Important Links
+
+- [Halo Platform Website](https://www.haloplatform.tech)
+- [HaloDex Decentralized Exchange](https://www.halodex.io)
+- [Halo Forum Community](https://community.haloplatform.tech/)
+- [Halo Discord Community](https://discord.gg/PmveA6A)
+- [Find Us On Twitter](https://twitter.com/halo_platform)
+- [Find Us On Telegram](https://t.me/haloplatform)
