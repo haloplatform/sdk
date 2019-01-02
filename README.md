@@ -38,6 +38,7 @@ These are links to specific code repo's of projects from Halo Platform. Each pro
 ##### API's
 
 - [Explorer API](API/explorer.md)
+- [Live Block Data](API/block-watcher.md)
 
 ##### Products
 
