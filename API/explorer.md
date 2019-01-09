@@ -2,6 +2,10 @@
 
 Data endpoints for blockchain information on the Halo Platform blockchain.
 
+[Swagger API Documentation](https://explorer.haloplatform.tech/api/halo/docs/)
+
+ 
+
 ## Table
 
 - [Get TX Pagination with Count by Address](#tx-pagination-with-count)
