@@ -1,3 +1,5 @@
+[home](../README.md)
+
 # Smart Contracts - Now and Timestamps
 
 Currently our blockchain has a higher time precision than Ethereum does. Our blockchain uses `microseconds` denoted as `us` as opposed to Ethereum who uses seconds. This is because our blockchain operates the microsecond level verses seconds because eventually our chain will move to microsecond transactions.

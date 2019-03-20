@@ -1,3 +1,7 @@
+[home](../README.md)
+
+# Smart Contract Deploying - Truffle
+
 This document will guide you through installing a deploying a smart contract using `truffle`
 
 1. First you will need to globally install `truffle@v4.1.0`

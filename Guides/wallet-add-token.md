@@ -1,3 +1,6 @@
+[home](../README.md)
+
+
 # Add Tokens To Wallet
 
 So you want to add a token to the wallet to send and receive it? Simple.

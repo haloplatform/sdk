@@ -1,3 +1,5 @@
+[home](../README.md)
+
 # Smart Contracts - Truffle Version
 
 Currently the only working version of truffle for our chain is `4.1.0`. We will update you on this as to why later.

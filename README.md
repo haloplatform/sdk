@@ -37,21 +37,22 @@ These are links to specific code repo's of projects from Halo Platform. Each pro
 ##### API's
 
 - [Explorer API](API/explorer.md)
-- [Live Block Data](API/block-watcher.md)
-- [Halo Dex & Backend API](https://api.haloplatform.tech/) :link:
+- [Live Block Data](API/block-watcher.md) - Realtime block information via websockets
+- [Halo Dex & Backend API](https://api.haloplatform.tech/) - New and improved backend api for dex & anonymous authentication.
+- [Halo.js](API/halojs.md) - Advanced web3 provider and backend api for featherlite, extension, and future tools.
 
 ##### Products
 
 - [Go-HaloPlatform](https://github.com/haloplatform/go-haloplatform) - The core coin code and blockchain..
-  - [GLO - Guides/Wiki - Different Repo](https://github.com/haloplatform/go-haloplatform/wiki) :link:
+  - [GLO - Guides/Wiki - Different Repo](https://github.com/haloplatform/go-haloplatform/wiki)
   
 
 ##### Tools
 
 - [Vuex-Web3-Sync](https://github.com/haloplatform/vuex-web3-sync) - Vuex (vuejs redux store) sync package for bringing web3 into a project easily.
 - [simple-sign-system](https://github.com/haloplatform/simple-sign-system) - Easy javascript sign and recover system for transactions and data. For use with Halo Platform Chain and web3js 1.x.
-- **_Advanced_** Halo.js (Not Publicly Available) - Halo Web3 provider and backend for featherlite or future tools. **If you would like to develop a dapp using halo.js to do signing and special features, please contact halo platform developers in discord**
 - [web3js-typings](https://github.com/haloplatform/web3js-typings) - Typescript Typings file for web3js.
+- [airdrop](https://github.com/haloplatform/airdrop) - A simple nodejs script that will run an airdrop from a csv.
 
 ##### Contracts
 
@@ -88,7 +89,7 @@ Write Smart Contracts:
 
 - [Report A Bug](https://github.com/haloplatform/status/issues/new?template=bug_report.md)
 - [Request A Feature](https://github.com/haloplatform/status/issues/new?template=feature_request.md)
-- For faster response please join our [discord](https://discord.gg/PmveA6A) :link:
+- For faster response please join our [discord](https://discord.gg/PmveA6A)
 
 ##### Other Important Links
 

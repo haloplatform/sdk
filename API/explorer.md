@@ -1,3 +1,5 @@
+[home](../README.md)
+
 # Explorer API
 
 Data endpoints for blockchain information on the Halo Platform blockchain.

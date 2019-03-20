@@ -1,3 +1,7 @@
+[home](../README.md)
+
+# Smart Contract Deploying - Wallet
+
 This document will guide you through installing a deploying a smart contract using the Halo wallet dapp
 
 1. In order to deploy a contract from the wallet you need 2 pieces of info about your smart contract, the ABI and the byte code. These can be obtained by compiling a smart contract and while there are many ways to do this I recommend `truffle` and a guide to compiling smart contracts can be found [here](./smart-contracts-deploying-truffle.md) by following until step 7

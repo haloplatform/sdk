@@ -1,3 +1,5 @@
+[home](../README.md)
+
 # Transactions - Signing
 
 So our chain signs transactions a little differently from ethereum, and this means that up until a few weeks ago you had to either send a transaction via an account unlocked on glo, or unlocked in extension / feather clients.
@@ -24,7 +26,7 @@ var web3 = new Web3("https://testnet-rpc.haloplatform.tech");
 web3.eth.accounts.wallet.create(1); 
 
 const tx = {
-    value: web3.utils.toWei("1", "ether"),
+    value: web3.utils.toHex(web3.utils.toWei(record.amount, 'ether')),
     gas: 21000, // minimum gas for transaction // gas price 0
     from: address,
     to: "0x0000000000000000000000000000000000000000", // burning the halo essentially

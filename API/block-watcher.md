@@ -1,3 +1,5 @@
+[home](../README.md)
+
 # Block Watcher
 
 Watches for new blocks and posts them to pusher channels as needed.

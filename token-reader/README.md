@@ -1,3 +1,5 @@
+[home](../README.md)
+
 # Token Reader
 
 This is a simple nodejs script for interfacing with an ERC20 token. You can use the same basic logic in a javascript frontend DAPP as well.

@@ -1,3 +1,5 @@
+[home](../README.md)
+
 # Smart Contracts - Gas Price && Gas Usage
 
 At this time all transactions on the Halo Platform blockchain use a gas price of `0`. 

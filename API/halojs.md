@@ -1,3 +1,5 @@
+[home](../README.md)
+
 # halo.js API
 ###### updated 3/8/2019
 
