@@ -4,7 +4,7 @@
 
 Data endpoints for blockchain information on the Halo Platform blockchain.
 
-[Swagger API Documentation](https://explorer.haloplatform.tech/api/halo/docs/)
+[Swagger API Documentation](https://e-api.haloplatform.tech/halo/docs/)
 
  
 
@@ -33,14 +33,14 @@ Fetch list of transaction with pagination and count of all transactions for spec
 
 **Endpoint**
 ```
-https://explorer.haloplatform.tech/api/halo/transactions
+https://e-api.haloplatform.tech/halo/transactions
 ```
 
 **Example Request**
 
 ```bash
 curl --request GET \
-  --url 'https://explorer.haloplatform.tech/api/halo/transactions?page=1&limit=10&address=0x660b523aB6c77885A370EcE2226CCf2BEDCE08b9'
+  --url 'https://e-api.haloplatform.tech/halo/transactions?page=1&limit=10&address=0x660b523aB6c77885A370EcE2226CCf2BEDCE08b9'
 ```
 
 **Example Response**
@@ -97,14 +97,14 @@ Fetch list of transaction with pagination and count of all transactions for spec
 
 **Endpoint**
 ```
-https://explorer.haloplatform.tech/api/halo/transactions/{hash}
+https://e-api.haloplatform.tech/halo/transactions/{hash}
 ```
 
 **Example Request**
 
 ```bash
 curl --request GET \
-  --url 'https://explorer.haloplatform.tech/api/halo/transactions/0xd3075d5ae913fbd0644ce28605d9078b99a85514bf0dc7585609e1292ccaf737
+  --url 'https://e-api.haloplatform.tech/halo/transactions/0xd3075d5ae913fbd0644ce28605d9078b99a85514bf0dc7585609e1292ccaf737
 ```
 
 **Example Response**
@@ -151,14 +151,14 @@ None
 
 **Endpoint**
 ```
-https://explorer.haloplatform.tech/api/block/latest
+https://e-api.haloplatform.tech/block/latest
 ```
 
 **Example Request**
 
 ```
 curl --request GET \
-  --url 'https://explorer.haloplatform.tech/api/halo/blocks/latest'
+  --url 'https://e-api.haloplatform.tech/halo/blocks/latest'
 ```
 
 **Example Response**
@@ -201,12 +201,12 @@ curl --request GET \
 
 **Endpoint**
 ```
-https://explorer.haloplatform.tech/api/halo/blocks/{{block_number || block_hash}}
+https://e-api.haloplatform.tech/halo/blocks/{{block_number || block_hash}}
 ```
 
 **Example 1 Request**
 ```
-https://explorer.haloplatform.tech/api/halo/blocks/1
+https://e-api.haloplatform.tech/halo/blocks/1
 ```
 
 **Example 1 Response**
@@ -240,7 +240,7 @@ https://explorer.haloplatform.tech/api/halo/blocks/1
 
 **Example 2 Request**
 ```
-https://explorer.haloplatform.tech/api/halo/blocks/0x10830a70a2649a14c8eb0be180252f050f9be64d2d2b4f1e27e85aa6162fb618
+https://e-api.haloplatform.tech/halo/blocks/0x10830a70a2649a14c8eb0be180252f050f9be64d2d2b4f1e27e85aa6162fb618
 ```
 
 **Example 2 Response**
@@ -284,12 +284,12 @@ Fetch list of blocks with pagination and total number of blocks
 
 **Endpoint**
 ```
-https://explorer.haloplatform.tech/api/halo/blocks
+https://e-api.haloplatform.tech/halo/blocks
 ```
 
 **Example Request**
 ```
-https://explorer.haloplatform.tech/api/halo/blocks?page=1&limit=10
+https://e-api.haloplatform.tech/halo/blocks?page=1&limit=10
 ```
 
 **Example Response**
@@ -340,12 +340,12 @@ Fetch halo coins supply
 
 **Endpoint**
 ```
-https://explorer.haloplatform.tech/api/halo/coin/total
+https://e-api.haloplatform.tech/halo/coin/total
 ```
 
 **Example Request**
 ```
-https://api-explorer.haloplatform.tech/api/halo/coin/total
+https://api-e-api.haloplatform.tech/halo/coin/total
 ```
 
 **Example Response**
@@ -369,12 +369,12 @@ Get address balance
 
 **Endpoint**
 ```
-https://explorer.haloplatform.tech/api/halo/addresses/0xca37dBCbc79D82a50648419CF114b05FdEf87844/balance
+https://e-api.haloplatform.tech/halo/addresses/0xca37dBCbc79D82a50648419CF114b05FdEf87844/balance
 ```
 
 **Example Request**
 ```
-https://explorer.haloplatform.tech/api/halo/addresses/0xca37dBCbc79D82a50648419CF114b05FdEf87844/balance
+https://e-api.haloplatform.tech/halo/addresses/0xca37dBCbc79D82a50648419CF114b05FdEf87844/balance
 ```
 
 **Example Response**
